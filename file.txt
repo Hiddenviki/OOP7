@@ -1,0 +1,4 @@
+3
+School Russia Zelenograd 1353 2022 September 10 2 -1000
+Lyceum Russia Moscow 1557 2022 May 2 1 -100
+Institute Russia Zelenograd 2 2022 October 1 1 10
